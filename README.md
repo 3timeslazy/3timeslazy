@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Usually busy with full-time job as a backend engineer, so mostly experimenting with random stuff rather than making projects.
 
 Some of my projects:
